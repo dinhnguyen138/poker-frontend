@@ -1,0 +1,10 @@
+export const LOGIN = `LOGIN`
+export const LOGOUT = `LOGOUT`
+export const REFRESH_TOKEN = `REFRESH_TOKEN`
+export const GET_INFO = `GET_INFO`
+export const UPDATE_AMOUNT = `UPDATE_AMOUNT`
+export const GET_ROOMS = `GET_ROOMS`
+export const CLEAR_INFO = `CLEAR_INFO`
+export const CONNECT = `CONNECT`
+export const DISCONNECT = `DISCONNECT`
+export const SEND_MSG = `SEND_MSG`
